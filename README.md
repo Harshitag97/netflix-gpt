@@ -4,7 +4,15 @@
 - configured TailwindCSS
 - header
 - Login Form
-- signip Form
+- signup Form
+- Routing
+- Form Validation
+- Useref hook
+- Fibrebase setup
+- Deploy app to production
+- Create signup in Firebase
+- implement Sign In user API
+- Created Redux Store with userSlice
 -
 
 # Fratures
